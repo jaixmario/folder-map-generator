@@ -57,4 +57,4 @@ This simple Python script generates a folder and file structure map of a given d
 
 ---
 
-**Made with love by Mario**
+**Made with ♥️ by Mario**
